@@ -73,7 +73,7 @@
   "customers": {
     "consumer": [
       {
-        "amount": "8000000",
+        "amount": "9000000",
         "type": "claim",
         "product": "currentAccounts",
         "source": {
@@ -93,7 +93,7 @@
         }
       },
       {
-        "amount": "1000000",
+        "amount": "9000000",
         "type": "claim",
         "product": "currentAccounts",
         "source": {
@@ -110,7 +110,7 @@
     "amount": "1100000000",
     "currency": "USD"
   },
-  "foundedYear": 2013,
+  "foundedYear": 2026,
   "strategies": [],
   "prepaidCards": [],
   "prepaidDebitCards": [],
